@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="reported_by" label="Reported By" language="en" table="x_43438_beyond_zer_x_43438_beyond_zero">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>reported_by</element>
+            <help/>
+            <hint/>
+            <label>Reported By</label>
+            <language>en</language>
+            <name>x_43438_beyond_zer_x_43438_beyond_zero</name>
+            <plural>Reported Bys</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-20 02:15:44</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>e8b481bc4f231600337ab5e18110c784</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Reported By</sys_name>
+            <sys_package display_value="beyond_zero" source="x_43438_beyond_zer">aa9241bc4f231600337ab5e18110c7aa</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="beyond_zero">aa9241bc4f231600337ab5e18110c7aa</sys_scope>
+            <sys_update_name>sys_documentation_x_43438_beyond_zer_x_43438_beyond_zero_reported_by_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-20 02:15:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

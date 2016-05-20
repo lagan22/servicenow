@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Beyond Zero" max_length="40" name="x_43438_beyond_zer_x_43438_beyond_zero" type="collection">
+        <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Reported By" max_length="32" name="reported_by" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="reported_by"/>
+        </index>
+        <index name="index2">
+            <element name="location"/>
+        </index>
+    </element>
+</database>
